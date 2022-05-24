@@ -1,0 +1,6 @@
+﻿  ARRAYS.cpp
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica7\zap534_practica8\ARRAYS.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica7\zap534_practica8\ARRAYS.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica7\zap534_practica8\ARRAYS.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica7\zap534_practica8\ARRAYS.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zap534_practica8.vcxproj -> E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica7\Debug\zap534_practica8.exe
