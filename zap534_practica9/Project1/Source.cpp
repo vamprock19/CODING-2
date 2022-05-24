@@ -9,8 +9,7 @@ int main()
 	int rows = (sizeof(matriz) / sizeof(matriz[0][0]));
 	
 	// ///////////////////////////////////////
-	int matrix[3][2] = { {rand() % 10},{rand() % 10} ,{rand() % 10} ,
-						 {rand() % 10} ,{rand() % 10}, {rand() % 10} };
+	int matrix[3][2] = { {rand() % 10},{rand() % 10}  };
 
 
 	// 3*2

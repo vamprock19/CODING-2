@@ -1,5 +1,5 @@
 ﻿  Source.cpp
-C:\Users\PC\Desktop\Project1\Project1\Source.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\PC\Desktop\Project1\Project1\Source.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\PC\Desktop\Project1\Project1\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\PC\Desktop\Project1\Project1\Source.cpp(12,6): error C2078: too many initializers
+D:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica9\Project1\Source.cpp(1,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica9\Project1\Source.cpp(2,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica9\Project1\Source.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Project1.vcxproj -> D:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_practica9\Debug\Project1.exe
