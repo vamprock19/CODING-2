@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\POKEMON\POKEMON\Source.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\POKEMON\POKEMON\Source.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\POKEMON\POKEMON\Source.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\POKEMON\POKEMON\Source.cpp(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\POKEMON\POKEMON\Source.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\POKEMON\Debug\POKEMON.exe not found or not built by the last incremental link; performing full link
+  POKEMON.vcxproj -> E:\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\POKEMON\Debug\POKEMON.exe
