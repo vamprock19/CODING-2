@@ -1,0 +1,4 @@
+﻿  BATTLE ROYAL.cpp
+C:\Users\PC\Desktop\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_PRACTICA10\zap534_PRACTICA10\BATTLE ROYAL.cpp(78,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\PC\Desktop\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_PRACTICA10\zap534_PRACTICA10\BATTLE ROYAL.cpp(79,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zap534_PRACTICA10.vcxproj -> C:\Users\PC\Desktop\AMERIKE 2ND SEMESTER\FUNDAMENTOS DE PROGRAMACION\TAREAS\zap534_PRACTICA10\Debug\zap534_PRACTICA10.exe
